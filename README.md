@@ -1,4 +1,4 @@
-# autotools-build: build script for different automake/autoconf/libtool
+# autotools-build: build script for different version of automake/autoconf/libtool
 
 Utils script to build automake/autoconf/libtool.
 
